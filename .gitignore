@@ -1,0 +1,22 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# YOLO outputs and weights
+runs/
+weights/
+*.pt
+*.onnx
+*.engine
+
+# Dataset
+dataset/raw/
+dataset/processed/
+*.cache
+
+# IDE and system files
+.vscode/
+.DS_Store
+Thumbs.db

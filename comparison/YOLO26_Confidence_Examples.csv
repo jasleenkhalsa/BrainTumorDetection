@@ -1,0 +1,10 @@
+Tumor Class,Target Confidence (%),Actual Confidence (%),IoU,Image Filename
+Glioma,85.0,85.11,0.5073,gg (135).jpg
+Glioma,90.0,89.99,0.8421,Tr-gl_0378.jpg
+Glioma,95.0,95.08,0.9521,Tr-gl_0372.jpg
+Meningioma,85.0,85.01,0.7532,m (115).jpg
+Meningioma,90.0,90.05,0.8436,m1(31).jpg
+Meningioma,95.0,95.0,0.9124,m2 (92).jpg
+Pituitary,85.0,85.15,0.834,Tr-pi_0623.jpg
+Pituitary,90.0,89.95,0.9494,Tr-pi_1318.jpg
+Pituitary,95.0,95.04,0.857,Tr-pi_0189.jpg
